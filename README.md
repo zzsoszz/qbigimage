@@ -1,2 +1,2 @@
-# qbigimage
-qbigimage
+# qdropdownselect
+qdropdownselect  jquery plugin
